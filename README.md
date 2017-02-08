@@ -1,4 +1,4 @@
-- Deve-se situar no diretório correto ( ~/Código ) onde se encontram todos os ficheiros .java
+- Deve-se situar no diretório correto ( ~/src ) onde se encontram todos os ficheiros .java
 
 - De seguida para compilar deve abrir o terminal nesse mesmo local e correr respetivamente os seguintes comandos: 
 	$ javac JogoDos8.java 
